@@ -1,5 +1,59 @@
 [
   {
+    "version": "0.9.0",
+    "date": "2019-06-05T06:03:35Z",
+    "changes": [
+      {
+        "title": "Notification system",
+        "tag": "Added"
+      },
+      {
+        "title": "Extended Recycle Bin support",
+        "tag": "Added"
+      },
+      {
+        "title": "Handle long running deletion",
+        "tag": "Added"
+      },
+      {
+        "title": "Parallel device scanning",
+        "tag": "Added"
+      },
+      {
+        "title": "Percentage selection option",
+        "tag": "Added"
+      },
+      {
+        "title": "Control running executables",
+        "tag": "Added"
+      },
+      {
+        "title": "Save previous scan locations",
+        "tag": "Added"
+      },
+      {
+        "title": "Localization option in Feedback",
+        "tag": "Added"
+      },
+      {
+        "title": "Redesign Settings & Extra Items",
+        "tag": "Changed"
+      },
+      {
+        "title": "Switch to .NET 4.7.2",
+        "tag": "Changed"
+      },
+      {
+        "title": "UI improvements",
+        "tag": "Changed"
+      },
+      {
+        "title": "Essential bug fixes",
+        "tag": "Fixed"
+      }
+    ]
+  },
+  {
     "version": "0.8.6",
     "date": "2019-02-08T02:07:00Z",
     "changes": [
