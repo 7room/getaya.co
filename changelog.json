@@ -1,5 +1,31 @@
 [
   {
+    "version": "0.9.2",
+    "date": "2019-12-02T20:22:21Z",
+    "changes": [
+      {
+        "title": "Russian translation",
+        "tag": "Added"
+      },
+      {
+        "title": "Asynchronous filtering",
+        "tag": "Added"
+      },
+      {
+        "title": "Pane opening animation",
+        "tag": "Added"
+      },
+      {
+        "title": "Brand new application service client",
+        "tag": "Changed"
+      },
+      {
+        "title": "Various other improvements and fixes",
+        "tag": "Fixed"
+      }
+    ]
+  },
+  {
     "version": "0.9.1",
     "date": "2019-06-11T15:17:25Z",
     "changes": [
