@@ -1,5 +1,87 @@
 [
   {
+    "version": "0.10.0",
+    "date": "2020-02-20T19:27:55Z",
+    "changes": [
+      {
+        "title": "Add \"Enable detailed logging\" option",
+        "tag": "Added"
+      },
+      {
+        "title": "Switch to Serilog logger",
+        "tag": "Changed"
+      },
+      {
+        "title": "Change installer name to Aya.Setup.x.x.x.exe",
+        "tag": "Changed"
+      },
+      {
+        "title": "Extend startup logging",
+        "tag": "Added"
+      },
+      {
+        "title": "Introduce search syntax support (currently in Exclusions)",
+        "tag": "Added"
+      },
+      {
+        "title": "Improve GridSplitter UX (make it wider)",
+        "tag": "Changed"
+      },
+      {
+        "title": "Improve progress bars",
+        "tag": "Changed"
+      },
+      {
+        "title": "Fix connection to application service (Windows 7)",
+        "tag": "Fixed"
+      },
+      {
+        "title": "Add \"Use Fast Scan Engine\" option",
+        "tag": "Added"
+      },
+      {
+        "title": "Fix validations in Settings",
+        "tag": "Fixed"
+      },
+      {
+        "title": "Improve Exclusions tool",
+        "tag": "Changed"
+      },
+      {
+        "title": "Fast scanning engine for NTFS disks",
+        "tag": "Added"
+      },
+      {
+        "title": "Improve english translation (paraphrasing)",
+        "tag": "Changed"
+      },
+      {
+        "title": "Fix integration with Resxul",
+        "tag": "Fixed"
+      },
+      {
+        "title": "Improve ScrollBar UX",
+        "tag": "Changed"
+      },
+      {
+        "title": "Save grid settings",
+        "tag": "Added"
+      },
+      {
+        "title": "Separate scan sources between standard and advanced modes",
+        "tag": "Changed"
+      },
+      {
+        "title": "Change log file location to %AppData%",
+        "tag": "Changed"
+      },
+      {
+        "title": "Bug fixes and other minor improvements",
+        "tag": "Fixed"
+      }
+    ]
+  },
+  {
     "version": "0.9.2",
     "date": "2019-12-02T20:22:21Z",
     "changes": [
