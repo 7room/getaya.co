@@ -4447,12 +4447,15 @@ body {
     margin: 0 0 15px
 }
 
-.beta-version {
-    background: #f1a653;
+.badge-beta {
     opacity: 1;
-    color: #fff;
-    padding: 0 2px;
-    border-radius: 3px
+    font-size: 9px;
+    padding: 0px 1.8px 0px 2px;
+    border-radius: 3px;
+    border: 1px solid #ffb619;
+    margin-left: 3px;
+    letter-spacing: 0.5px;
+    vertical-align: text-bottom;
 }
 
 .slider-container .col-3 .item {
