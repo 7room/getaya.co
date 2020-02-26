@@ -3220,8 +3220,7 @@ body {
     font-size: 26px;
     line-height: 30px;
     color: #464646;
-    text-align: center;
-    margin: 55px 0 0
+    text-align: center
 }
 
 .pricing-container .pricing-inner-container .desc {
@@ -3304,40 +3303,29 @@ body {
 
 .pricing-container .pricing-inner-container .pricing-row .pricing-plan .pricing {
     font-family: roboto-regular;
-    font-size: 36px;
-    line-height: 55px;
     text-align: center;
     color: #444;
-    margin: 20px 0 0
+    margin: 30px 0 0
 }
 
-.pricing-container .pricing-inner-container .pricing-row .pricing-plan .pricing span {
-    display: block;
+.pricing-container .pricing-inner-container .pricing-row .pricing-plan .pricing .currency {
     font-family: roboto-regular;
     font-size: 14px;
-    line-height: 21px;
-    text-align: center;
     color: #9b9b9b;
-    margin: -10px 0 0
+    margin: 0 0 7px 0;
 }
 
-.pricing-container .pricing-inner-container .pricing-row .pricing-plan .pricing p {
+.pricing-container .pricing-inner-container .pricing-row .pricing-plan .pricing .price {
     font-family: roboto-regular;
     font-size: 36px;
-    line-height: 55px;
-    text-align: center;
-    color: #444;
-    margin: 20px 0 0
+    margin: 0;
 }
 
 .pricing-container .pricing-inner-container .pricing-row .pricing-plan .pricing .desc {
-    display: block;
     font-family: roboto-regular;
     font-size: 14px;
-    line-height: 21px;
-    text-align: center;
     color: #9b9b9b;
-    margin: 0
+    margin: 5px 0 0 0
 }
 
 .pricing-container .pricing-inner-container .pricing-row .pricing-plan .features {
