@@ -1,10 +1,60 @@
 [
   {
+    "version": "0.10.1",
+    "date": "2020-02-29T17:54:45Z",
+    "changes": [
+      {
+        "title": "Add link to localization guidelines on GitHub",
+        "tag": "Added"
+      },
+      {
+        "title": "Improve translations",
+        "tag": "Changed"
+      },
+      {
+        "title": "Add \"OpenContentMaximized\" setting & rename \"Advanced view\" to \"Advanced mode\"",
+        "tag": "Changed"
+      },
+      {
+        "title": "Sort \"changelog.json\"",
+        "tag": "Changed"
+      },
+      {
+        "title": "Fix scanning badge activation",
+        "tag": "Changed"
+      },
+      {
+        "title": "Bug fixes and other minor improvements",
+        "tag": "Fixed"
+      }
+    ]
+  },
+  {
     "version": "0.10.0",
-    "date": "2020-02-20T19:27:55Z",
+    "date": "2020-02-19T18:39:48Z",
     "changes": [
       {
         "title": "Add \"Enable detailed logging\" option",
+        "tag": "Added"
+      },
+      {
+        "title": "Extend startup logging",
+        "tag": "Added"
+      },
+      {
+        "title": "Introduce search syntax support (currently in Exclusions)",
+        "tag": "Added"
+      },
+      {
+        "title": "Add \"Use Fast Scan Engine\" option",
+        "tag": "Added"
+      },
+      {
+        "title": "Fast scanning engine for NTFS disks",
+        "tag": "Added"
+      },
+      {
+        "title": "Save grid settings",
         "tag": "Added"
       },
       {
@@ -16,14 +66,6 @@
         "tag": "Changed"
       },
       {
-        "title": "Extend startup logging",
-        "tag": "Added"
-      },
-      {
-        "title": "Introduce search syntax support (currently in Exclusions)",
-        "tag": "Added"
-      },
-      {
         "title": "Improve GridSplitter UX (make it wider)",
         "tag": "Changed"
       },
@@ -32,40 +74,16 @@
         "tag": "Changed"
       },
       {
-        "title": "Fix connection to application service (Windows 7)",
-        "tag": "Fixed"
-      },
-      {
-        "title": "Add \"Use Fast Scan Engine\" option",
-        "tag": "Added"
-      },
-      {
-        "title": "Fix validations in Settings",
-        "tag": "Fixed"
-      },
-      {
         "title": "Improve Exclusions tool",
         "tag": "Changed"
-      },
-      {
-        "title": "Fast scanning engine for NTFS disks",
-        "tag": "Added"
       },
       {
         "title": "Improve english translation (paraphrasing)",
         "tag": "Changed"
       },
       {
-        "title": "Fix integration with Resxul",
-        "tag": "Fixed"
-      },
-      {
         "title": "Improve ScrollBar UX",
         "tag": "Changed"
-      },
-      {
-        "title": "Save grid settings",
-        "tag": "Added"
       },
       {
         "title": "Separate scan sources between standard and advanced modes",
@@ -76,6 +94,18 @@
         "tag": "Changed"
       },
       {
+        "title": "Fix connection to application service (Windows 7)",
+        "tag": "Fixed"
+      },
+      {
+        "title": "Fix validations in Settings",
+        "tag": "Fixed"
+      },
+      {
+        "title": "Fix integration with Resxul",
+        "tag": "Fixed"
+      },
+      {
         "title": "Bug fixes and other minor improvements",
         "tag": "Fixed"
       }
@@ -83,7 +113,7 @@
   },
   {
     "version": "0.9.2",
-    "date": "2019-12-02T20:22:21Z",
+    "date": "2019-12-02T23:05:10Z",
     "changes": [
       {
         "title": "Russian translation",
@@ -109,7 +139,7 @@
   },
   {
     "version": "0.9.1",
-    "date": "2019-06-11T15:17:25Z",
+    "date": "2019-06-11T14:54:18Z",
     "changes": [
       {
         "title": "Ability to install .NET Framework if it doesn't exist",
@@ -131,7 +161,7 @@
   },
   {
     "version": "0.9.0",
-    "date": "2019-06-05T06:03:35Z",
+    "date": "2019-06-05T05:58:16Z",
     "changes": [
       {
         "title": "Notification system",
@@ -162,7 +192,7 @@
         "tag": "Added"
       },
       {
-        "title": "Localization option in Feedback",
+        "title": "Translation option in Feedback",
         "tag": "Added"
       },
       {
@@ -188,7 +218,7 @@
     "date": "2019-02-08T02:07:00Z",
     "changes": [
       {
-        "title": "Add ability to show advanced view by default",
+        "title": "Add ability to use advanced mode by default",
         "tag": "Added"
       },
       {
@@ -196,12 +226,12 @@
         "tag": "Added"
       },
       {
-        "title": "Protect update hash",
-        "tag": "Changed"
+        "title": "Restrict functionality in free version",
+        "tag": "Added"
       },
       {
-        "title": "Fix several issues in UI library",
-        "tag": "Fixed"
+        "title": "Protect update hash",
+        "tag": "Changed"
       },
       {
         "title": "Use PasswordBox for proxy password",
@@ -212,12 +242,12 @@
         "tag": "Changed"
       },
       {
-        "title": "Restrict functionality in free version",
-        "tag": "Added"
-      },
-      {
         "title": "Improve UX in some scenarios",
         "tag": "Changed"
+      },
+      {
+        "title": "Fix several issues in UI library",
+        "tag": "Fixed"
       }
     ]
   },
@@ -300,16 +330,16 @@
     "date": "2018-12-10T01:00:00Z",
     "changes": [
       {
+        "title": "Handle reparse point",
+        "tag": "Added"
+      },
+      {
         "title": "Introduce Material Design UI",
         "tag": "Changed"
       },
       {
         "title": "New filters concept",
         "tag": "Changed"
-      },
-      {
-        "title": "Handle reparse point",
-        "tag": "Added"
       },
       {
         "title": "Fix many bugs",
@@ -330,12 +360,12 @@
     "date": "2018-07-28T01:00:00Z",
     "changes": [
       {
-        "title": "Fix application freeze after downloading update",
-        "tag": "Fixed"
-      },
-      {
         "title": "Delete update file after successful updating",
         "tag": "Added"
+      },
+      {
+        "title": "Fix application freeze after downloading update",
+        "tag": "Fixed"
       }
     ]
   },
