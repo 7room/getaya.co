@@ -2057,9 +2057,9 @@ body {
 
 .header-container .header-inner-container-row-product-pic {
     width: 100%;
-    max-width: 1095px;
+    max-width: 1070px;
     height: 710px;
-    border-radius: 5px;
+    border-radius: 0px;
     pointer-events: none;
     margin: 80px 0 0;
     background-repeat: no-repeat;
