@@ -231,6 +231,8 @@ $(document).ready(function () {
                 e.preventDefault();
                 var w = window.pageYOffset,
                     hash = this.href.replace(/[^#]*(.*)/, '$1');
+                if (hash == '#')
+                    return;
                 t = document.querySelector(hash).getBoundingClientRect().top,
                     start = null;
                 requestAnimationFrame(step);
