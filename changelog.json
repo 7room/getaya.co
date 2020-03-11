@@ -1,5 +1,27 @@
 [
   {
+    "version": "0.10.3",
+    "date": "2020-03-11T21:48:03Z",
+    "changes": [
+      {
+        "title": "Allow double-click in Duplicates",
+        "tag": "Changed"
+      },
+      {
+        "title": "Fix filtering in Contents when browsing",
+        "tag": "Fixed"
+      },
+      {
+        "title": "Fix app behavior when deleting multiple items with using \"Skip\" command",
+        "tag": "Fixed"
+      },
+      {
+        "title": "Bug fixes and other minor improvements",
+        "tag": "Fixed"
+      }
+    ]
+  },
+  {
     "version": "0.10.2",
     "date": "2020-03-04T18:35:42Z",
     "changes": [
