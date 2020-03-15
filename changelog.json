@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.10.4",
+    "date": "2020-03-15T14:24:07Z",
+    "changes": [
+      {
+        "title": "Change \"http\" scheme link for downloading .NET Framework to \"https\"",
+        "tag": "Fixed"
+      },
+      {
+        "title": "Bug fixes and other minor improvements",
+        "tag": "Fixed"
+      }
+    ]
+  },
+  {
     "version": "0.10.3",
     "date": "2020-03-11T21:48:03Z",
     "changes": [
